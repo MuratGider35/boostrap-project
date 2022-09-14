@@ -57,6 +57,12 @@ section#instructor .socials i:hover {
   color: black;
 }
 
+section#courses .nav-link.active {
+  background-color: #dc3545;
+}
+section#courses .nav-link {
+  color: white;
+}
 /*!--------------------3-ABOUT SECTİON-------------------------*/
 
 /*!--------------------4-STUDENT SECTİON-------------------------*/
