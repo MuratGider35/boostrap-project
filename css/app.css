@@ -37,6 +37,24 @@
   margin-right: 0.5rem !important;
 }
 .carousel-caption {
+  bottom: 5rem;
+}
+section#instructor .card {
+  transition: transform 0.5s;
+}
+
+section#instructor .card:hover {
+  transform: scale(1.05);
+}
+section#instructor .socials i {
+  transition: opacity 0.5s;
+}
+section#instructor .socials i:hover {
+  opacity: 0.4;
+}
+#students p {
+  font-size: 1.4rem;
+  color: black;
 }
 
 /*!--------------------3-ABOUT SECTİON-------------------------*/
