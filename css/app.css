@@ -63,6 +63,10 @@ section#courses .nav-link.active {
 section#courses .nav-link {
   color: white;
 }
+footer i {
+  color: white;
+  font-size: 2rem;
+}
 /*!--------------------3-ABOUT SECTİON-------------------------*/
 
 /*!--------------------4-STUDENT SECTİON-------------------------*/
